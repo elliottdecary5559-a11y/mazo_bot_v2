@@ -9,7 +9,8 @@ const client = new Client({
     ]
 });
 
-// CONFIGURATION : Remplacez avec votre vrai Token
+// CONFIGURATION :MTU1MTk1NjE5NzQwNDMxMTU1Mg.G8y_Jm.7sL1LLjnCnFDe6OVfWWbXJE7xP_jCFlId4kszg
+Dispose d’un menu contextuel
 const TOKEN = 'MTU1MTk1NjE5NzQwNDMxMTU1Mg.G8y_Jm.7sL1LLjnCnFDe6OVfWWbXJE7xP_jCFlId4kszg';
 const CLIENT_ID = '1551412353353125958';
 
